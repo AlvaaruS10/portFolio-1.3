@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, p{
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #133146;
 }
 
 @media (max-width: 768px) {
@@ -41,11 +41,11 @@ h1, h2, h3, h4, h5, p{
 }
 
 h2{
-  color: 73a3c;
+  color: #2f72b6;
 }
 
 footer {
-  background-color: #43474b;
+  background-color: #2f72b6;
 }
 
 #footerIcon{
